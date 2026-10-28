@@ -17,8 +17,12 @@ The main problems were a flat network, guest access to internal systems, and acc
 
 FILE01's disk activity reached 94–100% during backup, while CPU stayed around 20–27%. That pointed me toward storage contention rather than CPU load. I proposed changing the backup schedule, then comparing storage performance and user experience before and after the change.
 
-## Project notes
+## Project documentation
 
-[Network design](network-design.md) · [Access control](identity-and-access.md) · [Troubleshooting](troubleshooting.md) · [Operations & recovery](operations-and-recovery.md) · [Test plan](validation-plan.md)
+[Network design](network-design.md)  
+[Access control](identity-and-access.md) 
+[Troubleshooting](troubleshooting.md) 
+[Operations & recovery](operations-and-recovery.md) 
+[Test plan](validation-plan.md)
 
 This was a design and analysis assignment. The observations came from the course scenario; I have not deployed or tested the proposed environment.
