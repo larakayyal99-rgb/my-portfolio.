@@ -19,10 +19,10 @@ FILE01's disk activity reached 94–100% during backup, while CPU stayed around 
 
 ## Project documentation
 
-[Network design](network-design.md)  
-[Access control](identity-and-access.md) 
-[Troubleshooting](troubleshooting.md) 
-[Operations & recovery].(operations-and-recovery.md) 
-[Test plan](validation-plan.md)
+- [Network design](network-design.md)
+- [Access control](identity-and-access.md)
+- [Troubleshooting](troubleshooting.md)
+- [Operations & recovery](operations-and-recovery.md)
+- [Test plan](validation-plan.md)
 
 This was a design and analysis assignment. The observations came from the course scenario; I have not deployed or tested the proposed environment.
